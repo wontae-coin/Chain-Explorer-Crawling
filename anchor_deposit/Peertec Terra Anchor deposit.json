@@ -1,0 +1,202 @@
+[
+    {
+        "datetime": "2022-05-06 10:25:21",
+        "txid": "22CFA38DA34CF54C28EB85CD43EF40495689BC0F49085659C87CE5E7F11EE1F9",
+        "value": 10070.0
+    },
+    {
+        "datetime": "2022-05-03 11:31:20",
+        "txid": "232303B8A6FB139C22F7E763D2EE2D2909E576C46954C60BCAFC61D5D0FA6341",
+        "value": 91990.0
+    },
+    {
+        "datetime": "2022-05-02 13:31:03",
+        "txid": "6D76FD22E23B3F95946B2943C60ED9A13BF1E1D1BDE7CB22FE8BD441820259EF",
+        "value": 50000.0
+    },
+    {
+        "datetime": "2022-05-02 13:17:36",
+        "txid": "548CFA2A6573AB41F57262B5DCA2B4ACC63DE9F9C43681CF860F37E13F0BCCC3",
+        "value": 800000.0
+    },
+    {
+        "datetime": "2022-05-02 11:59:57",
+        "txid": "91B8B70F36DC1F0E0C7F3EDFC91BAAEAEB9A224BC6EC657C4AF186EE64170198",
+        "value": 61550.0
+    },
+    {
+        "datetime": "2022-05-02 11:54:01",
+        "txid": "1AC2AA9C5F940D388FD17228681822C10972F19EE83D0A8A65F7B329E1A56A61",
+        "value": 2500000.0
+    },
+    {
+        "datetime": "2022-04-29 11:50:20",
+        "txid": "BE632B28EE8161158E7A622F4374870159C89E87238704A06724D7076A9908BC",
+        "value": 24770.0
+    },
+    {
+        "datetime": "2022-04-26 10:39:34",
+        "txid": "9767D58027FD3CA2F1762108C4C57770CB50445EF2FFB87880682305266DD1D4",
+        "value": 200000.0
+    },
+    {
+        "datetime": "2022-04-26 10:25:11",
+        "txid": "A934A31B53D52C7A11EE1C80829D4D1C8892E5C4CEFBAF1F6E19F4599BFD36BE",
+        "value": 370820.0
+    },
+    {
+        "datetime": "2022-04-20 16:48:25",
+        "txid": "70E20A933EE62A617D0B973FC16132FC6386D717AAE3CC9140D5EBBA06F7A500",
+        "value": 100000.0
+    },
+    {
+        "datetime": "2022-04-19 10:09:14",
+        "txid": "E1CA1994312C2CA815DA6AD757499A7B07180E6FFC26CA153733809F16902FEE",
+        "value": 398690.0
+    },
+    {
+        "datetime": "2022-04-16 19:07:22",
+        "txid": "2D02044077710087094C72CAACB157FF095EC01EA12E173F1A8EF29356091A23",
+        "value": 45685.0
+    },
+    {
+        "datetime": "2022-04-16 12:13:53",
+        "txid": "FFC7D920C769A205302D8C18CD3C57DF98FECF755DCC230A952BEB09CAD05DF6",
+        "value": 598260.0
+    },
+    {
+        "datetime": "2022-04-14 10:19:52",
+        "txid": "0B5D982F2863BB55E7BC47BDDCAEE2B367BAE0C54DB7199241BB904AB17650A7",
+        "value": 271410.0
+    },
+    {
+        "datetime": "2022-04-13 10:21:38",
+        "txid": "0801D88286D124869E6922FF0F829D17BD541AF394C0534685ECE417C016D568",
+        "value": 599710.0
+    },
+    {
+        "datetime": "2022-04-10 12:49:35",
+        "txid": "09E6D3A683A9368A084231E89708AE2F9BA1F8D648714F22812653A0D1079262",
+        "value": 299800.0
+    },
+    {
+        "datetime": "2022-04-08 11:14:56",
+        "txid": "B2CD2A3C97FEC6466B0BED4415AC2D26497EEC554F34B6111F5C8C90575C46B9",
+        "value": 129943.0
+    },
+    {
+        "datetime": "2022-04-07 11:27:38",
+        "txid": "8FA73D0D2AC68E78BA3C5925EC3EDCA16E0DA161D4D3DBA423ACB3102F126E03",
+        "value": 1799535.0
+    },
+    {
+        "datetime": "2022-04-07 10:42:13",
+        "txid": "544238F5F702137CF75B1D356DC97F8222BAB1D2E3A2A28F3C1E2911CACA2D2E",
+        "value": 1000048.0
+    },
+    {
+        "datetime": "2022-04-04 10:01:40",
+        "txid": "6D44BB5BCCDB0B818EB42CB37DC5C159D7E1C1ED337C80CF7B28BBF223FFF0D1",
+        "value": 149969.0
+    },
+    {
+        "datetime": "2022-03-31 11:08:27",
+        "txid": "38D97E021C5D17840F273A1DC01B79B87A3F0B6648B32C75D12D280A37B23FF7",
+        "value": 2779.0
+    },
+    {
+        "datetime": "2022-03-28 09:53:51",
+        "txid": "BA9A8F4693D759296EB7FCA3447D7CD426E6DCBAED33F16E9713C7AB5739D619",
+        "value": 109984.0
+    },
+    {
+        "datetime": "2022-03-27 12:36:59",
+        "txid": "2CE9E38B775036A1BC385DEA610A8C50F0E05C0E93B471E755317936F87726B5",
+        "value": 119889.0
+    },
+    {
+        "datetime": "2022-03-25 10:25:40",
+        "txid": "CD4EEF90E5DC37D9C166D09B2B4680347521FA07F98A8C0BB4071A8FB9ADE37F",
+        "value": 149920.0
+    },
+    {
+        "datetime": "2022-03-23 11:47:00",
+        "txid": "80474C6EF9D2EDDAF3041E01F34E50A115B8F01E96F37442F48C79D22A53554F",
+        "value": 1756.0
+    },
+    {
+        "datetime": "2022-03-23 10:45:44",
+        "txid": "95ABEE250B8BFC2A45400E0AE545C47E31E12B2506CEC8733350A2830660F864",
+        "value": 149517.0
+    },
+    {
+        "datetime": "2022-03-22 13:22:48",
+        "txid": "353F35032D88D05137C3C886D2B1030F86BCD91D7774AC91B267EDB3BC4F8C33",
+        "value": 3440.0
+    },
+    {
+        "datetime": "2022-03-20 10:30:37",
+        "txid": "6C1E25B6F0B2FD3938022712479DBD30F18141864F60FAFA98BAB9F93A66FBAE",
+        "value": 220.358
+    },
+    {
+        "datetime": "2022-03-19 14:54:56",
+        "txid": "9942867E3082C40A391D3F86966A113C48408189BA73377A2ECB31E763D0BCA1",
+        "value": 470853.0
+    },
+    {
+        "datetime": "2022-03-18 13:46:42",
+        "txid": "B8DDED85A0B6493B55CBD82AEB5C1A3AA3CE3236D03A980A1AA4F6234025F6F1",
+        "value": 3007.0
+    },
+    {
+        "datetime": "2022-03-18 11:03:37",
+        "txid": "F45A4E44D6222A0FD87A6307056965DF61D0D51938976EE9D95C4C5CC9BBE320",
+        "value": 547813.0
+    },
+    {
+        "datetime": "2022-03-17 12:04:24",
+        "txid": "41DA30D9DC68B9E40804EE3237FBA2BF1DA5376D3E670D5C7514AE48F39B8ACD",
+        "value": 9963.0
+    },
+    {
+        "datetime": "2022-03-17 10:31:41",
+        "txid": "4A86602825CD36CF147446BB574F70A47D75844D0DA341AE149D6535D9C31FD8",
+        "value": 298817.0
+    },
+    {
+        "datetime": "2022-03-16 17:20:02",
+        "txid": "10BC99157EB0A8A9C7A774385030530B8B71F343A716C7A9D10A52EE89F3FF3C",
+        "value": 934.0
+    },
+    {
+        "datetime": "2022-03-16 15:48:45",
+        "txid": "5BF89E6177E927B814E2EC94101403F4B828690A1CC3967402EC77A3574E6D05",
+        "value": 23699.0
+    },
+    {
+        "datetime": "2022-03-16 12:04:46",
+        "txid": "E6B0B3F0EF8566B3E749810DB5FF5CC38722B7E96CB515FD206E8460038CBC25",
+        "value": 328745.0
+    },
+    {
+        "datetime": "2022-03-16 11:31:27",
+        "txid": "F4AAE70A3A90AB15BE27592C6DACC30B4A8A92BD090E3010837DC1D120CD54A5",
+        "value": 547805.0
+    },
+    {
+        "datetime": "2022-03-08 16:30:08",
+        "txid": "3AAF7BD3095F49BC41C4F318945569083628208C2B68EB2D94FF86A1A82A0DD8",
+        "value": 735.0
+    },
+    {
+        "datetime": "2022-03-03 11:42:27",
+        "txid": "8D654F17C0D7A052A0253D831F942703D69235D00CA7A9089912B1CC28995C39",
+        "value": 10.906
+    },
+    {
+        "datetime": "2022-03-03 11:22:08",
+        "txid": "C09E8D146CAD381E3ED4A3D24FA8C7740F3A7B634E299DF062F6C4B3367C344C",
+        "value": 59.08
+    }
+]
